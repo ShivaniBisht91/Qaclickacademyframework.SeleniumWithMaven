@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63434" started-at="2019-11-25T11:17:32Z" finished-at="2019-11-25T11:18:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63434" started-at="2019-11-25T11:17:32Z" finished-at="2019-11-25T11:18:36Z">
+      <class name="Qaclickacademyframework.TestCases.PracticePage">
+        <test-method status="PASS" signature="extentReport()[pri:0, instance:Qaclickacademyframework.TestCases.PracticePage@91161c7]" name="extentReport" is-config="true" duration-ms="255" started-at="2019-11-25T16:47:32Z" finished-at="2019-11-25T16:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReport -->
+        <test-method status="PASS" signature="openChrome()[pri:0, instance:Qaclickacademyframework.TestCases.PracticePage@91161c7]" name="openChrome" is-config="true" duration-ms="13421" started-at="2019-11-25T16:47:33Z" depends-on-methods="Qaclickacademyframework.extentReport.Report.extentReport" finished-at="2019-11-25T16:47:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChrome -->
+        <test-method status="PASS" signature="all()[pri:0, instance:Qaclickacademyframework.TestCases.PracticePage@91161c7]" name="all" duration-ms="49143" started-at="2019-11-25T16:47:46Z" finished-at="2019-11-25T16:48:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- all -->
+        <test-method status="PASS" signature="flush()[pri:0, instance:Qaclickacademyframework.TestCases.PracticePage@91161c7]" name="flush" is-config="true" duration-ms="563" started-at="2019-11-25T16:48:35Z" finished-at="2019-11-25T16:48:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- Qaclickacademyframework.TestCases.PracticePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
